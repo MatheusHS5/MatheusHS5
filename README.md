@@ -1,4 +1,4 @@
-Olá! Eu sou o Matheus Henrique de Souza! 👋
+Olá! Eu sou o <b>>Matheus Henrique de Souza!</b> 👋
 
 - 🔭 Trabalho como Coordenador de Suporte em TI e Consultor Comercial na empresa Cavok Aviação.
 - 🌱 Formação acadêmica em Sistemas de Informação / Engenharia de Software.
